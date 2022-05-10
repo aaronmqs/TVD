@@ -2,7 +2,7 @@
 
 > This repository contains some of the codes developed during the study on Stability of Time-Varying Delay (TVD) PI-Controlled Systems - Master's Program in Electrical Engineering - Federal University of Ceara.
 
-![comparativo](https://user-images.githubusercontent.com/68541168/167724313-38053944-750b-48fb-8aec-37b6e20c7d6a.png)
+![untitled](https://user-images.githubusercontent.com/68541168/167724867-d1f79b6c-f40d-4ba4-b11c-27ccb2eddb36.png)
 
 
 ### Tasks
