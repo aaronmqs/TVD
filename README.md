@@ -4,17 +4,6 @@
 
 ![untitled](https://user-images.githubusercontent.com/68541168/167724867-d1f79b6c-f40d-4ba4-b11c-27ccb2eddb36.png)
 
-
-### Tasks
-
-The project is still under development and the next updates will focus on the following tasks:
-
-- [x] Comparing different cenarios for stability of PI-Controlled first order processes: constant time-delay ❌ time-varying time-delay
-- [x] For the Skogestad-IMC PI Controller proposed in "Simple analytic rules for model reduction and PID controller tuning", 2003, Skogestad, verifying what's the worst cenario for the stability of the PI-Controlled closed-loop system: constant time-delay or time-varying time-delay in a first order model
-- [ ] Computationally Analysing the stability in the frequency domain for better understanding what's the worst situation for a PI-Controlled first order process
-- [ ] Analysing the stability in the time domain (Lyapunov-Krasovskii, Razumikhin...) to find less conservative conditions to tell what's the worst case time-delay for a PI-Controlled first order process
-- [ ] Testing the theoretical results in a intensive care unit in order to verify the stability conditions proposed
-
 ## 💻 Requirements to start this project:
 
 Before starting, make sure you've met the following requirements:
@@ -26,6 +15,7 @@ Before starting, make sure you've met the following requirements:
 * Delay differential systems with time varying delay, 2001, James Louissel
 * Estudo de Sistemas Dinâmicos com Atraso Variante no Tempo, 2021, Aaron Marques
 * https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
+* Skogestad, S. (2003). Simple analytic rules for model reduction and pid controller tuning. Journal of Process Control, (3), 291–309.
 
 ## 📝 License
 
