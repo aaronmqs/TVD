@@ -16,6 +16,8 @@ Before starting, make sure you've met the following requirements:
 * Estudo de Sistemas Dinâmicos com Atraso Variante no Tempo, 2021, Aaron Marques
 * https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
 * Skogestad, S. (2003). Simple analytic rules for model reduction and pid controller tuning. Journal of Process Control, (3), 291–309.
+* Chung-Yao Kaoa; Bo Lincoln (2004). Simple stability criteria for systems withtime-varying delays
+
 
 ## 📝 License
 
