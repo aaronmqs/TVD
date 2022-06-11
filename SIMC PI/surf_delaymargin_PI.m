@@ -75,7 +75,7 @@ a.FaceColor = '#cc99ff';
 hold on
 plot3(Ki_s,Kc_s,DM_var,'LineWidth',3) % Maximum allowable amplitude for sawtooth delay (Skogestad Tuning Rule)
 xlabel('Ki: integral');
-ylabel('Kc: proportional');
+ylabel('Kp: proportional');
 zlabel('Maximum Sawtooth Value');
 legend('Sawtooth Delay','Sawtooth Delay - Skogestad')
 axis([0 3 0 2])
